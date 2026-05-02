@@ -46,7 +46,7 @@ Cilantro is the cleanest, smallest version of a story we keep being sold about o
 
 ## Your tongue isn't broken
 
-If you've spent years telling people you "have the cilantro gene," the science is gently asking you to drop the costume — and to notice how often you wear larger versions of it. The tongue you grew up with isn't a verdict; it's a draft [2], [4], [5], [6]. So the next time someone swears the leaf tastes like soap and shrugs, *"it's genetics, what can you do,"* you can hand them a second taco, smile, and tell them the truth: their tongue isn't broken — it's just under-travelled. And, in the end, neither are they.
+If you've spent years telling people you "have the cilantro gene," the science is gently asking you to drop the costume — and to notice how often you wear larger versions of it. The tongue you grew up with isn't a verdict; it's a draft [2], [4], [5], [6]. So the next time someone waves the green flecks away before the bowl has even reached the table — *"no thanks, it tastes like soap, it's just my genes"* — slide a taco across to them, and ask them to take one honest bite first. Their tongue isn't broken. It's just been told the answer before it was allowed to ask the question.
 
 ---
 
