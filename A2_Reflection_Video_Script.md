@@ -38,9 +38,9 @@ This script exists only as a reference for what each section should *cover* and 
 
 ## 1:30 – 2:10 · Critical Analysis #3 — synthesis paragraph, §5 (~90 words)
 
-> Now let me jump to section five — "Genes contribute a little; culture contributes most." This paragraph here is where I synthesize, rather than just summarise. The closing sentence — pulling the small genetic sensitivity bias from references one and two together with the exposure mechanism from reference six into one claim — is mine; it's not lifted from any single source. So just to be explicit: the two perspectives I'm comparing are genetics and culture-and-exposure, and this is the paragraph where I bring them into one frame instead of leaving them side by side.
+> Now let me jump to section five — "Genes set the dial, culture plays the music." This paragraph here is where I synthesize, rather than just summarise. The line — "genetics is a small sensitivity dial wired into your nose, but culture is the conductor that decides which song those notes belong to, and a song can be rewritten in a way DNA never can" — that metaphor is mine. It's built from references one, two and six together; it's not lifted from any single source. So just to be explicit: the two perspectives I'm comparing are genetics and culture-and-exposure, and this is the paragraph where I bring them into one frame instead of leaving them side by side.
 
-*[Hover over the closing sentence of §5, then over [1], [2], [6] in turn.]*
+*[Hover over the "sensitivity dial / conductor" line, then over [1], [2], [6] in turn.]*
 
 ---
 
