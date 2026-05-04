@@ -41,7 +41,7 @@ Three things from the LANG 1409 brief that most students miss, and that drive th
   That's textbook *critique using internal evidence*, which is a top-band move.
 - **§3 limitation about the European-only sample [1].** Shows you didn't take a finding at face value — you flagged a *generalisability* limit. Name the skill: *"evaluating evidence quality, not just citing it."*
 - **§4 vs §3 — the deliberate juxtaposition of the two perspectives.** Point out that the two perspectives chosen aren't symmetric opposites (genetics vs. culture-and-exposure), and explain why that asymmetry is the *point* of the critique: the "debate" is framed as 50/50 in popular media but the evidence isn't.
-- **§5 "Where genes end and kitchens begin" — the synthesis paragraph.** Explicitly say:
+- **§5 "Genes set the dial, culture plays the music" — the synthesis paragraph.** Explicitly say:
   *"This is where I synthesize, rather than just summarise — the 'sensitivity dial / culture decides the music' line is mine, built from refs [1][2][6], not lifted from any one source."*
   Synthesis is a named rubric word; use it out loud.
 - **§4 — the honest concession** (*"Mauer & El-Sohemy's ethnocultural categories partly mirror genetic ancestry"*). Flag this:
