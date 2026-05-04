@@ -36,7 +36,7 @@ Underneath the map sits a well-established mechanism: the **mere-exposure effect
 
 ## Genes set the dial, culture plays the music
 
-Lay them side by side and the math ends the argument. Genetics — on its own proponents' best estimate — explains under a tenth of the disagreement [2], with similarly modest effects across the wider olfactory genome [3], [7]. The other 90% lives in territory the geographic data describes far better [4], [5]. The cleanest synthesis: genetics gives you a small **sensitivity dial**; if you carry rs72921001, the aldehydes ring a little louder [1], [2]. Culture decides what music your brain plays them as, and culture is far more plastic than DNA will ever be [6].
+Lay them side by side and the math ends the argument. Genetics — on its own proponents' best estimate — explains under a tenth of the disagreement [2], with similarly modest effects across the wider olfactory genome [3], [7]. The other 90% lives in territory the geographic data describes far better [4], [5]. The cleanest synthesis: genetics hands you a small **sensitivity dial** — if you carry rs72921001, the aldehydes ring a little louder [1], [2] — but culture chooses the song those notes belong to, and a song can be rewritten over a few weeks of dinners in a way DNA never can [6].
 
 ## The story we keep buying
 
