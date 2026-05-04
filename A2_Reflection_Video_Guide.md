@@ -41,8 +41,8 @@ Three things from the LANG 1409 brief that most students miss, and that drive th
   That's textbook *critique using internal evidence*, which is a top-band move.
 - **§3 limitation about the European-only sample [1].** Shows you didn't take a finding at face value — you flagged a *generalisability* limit. Name the skill: *"evaluating evidence quality, not just citing it."*
 - **§4 vs §3 — the deliberate juxtaposition of the two perspectives.** Point out that the two perspectives chosen aren't symmetric opposites (genetics vs. culture-and-exposure), and explain why that asymmetry is the *point* of the critique: the "debate" is framed as 50/50 in popular media but the evidence isn't.
-- **§5 "Genes set the dial, culture plays the music" — the synthesis paragraph.** Explicitly say:
-  *"This is where I synthesize, rather than just summarise — the 'sensitivity dial / culture decides the music' line is mine, built from refs [1][2][6], not lifted from any one source."*
+- **§5 "Genes contribute a little; culture contributes most" — the synthesis paragraph.** Explicitly say:
+  *"This is where I synthesize, rather than just summarise — the closing sentence pulls the genetic sensitivity bias from refs [1][2] together with the exposure mechanism from ref [6] into one claim, and that combination is mine, not lifted from any one source."*
   Synthesis is a named rubric word; use it out loud.
 - **§4 — the honest concession** (*"Mauer & El-Sohemy's ethnocultural categories partly mirror genetic ancestry"*). Flag this:
   *"Top-band critique acknowledges where your preferred perspective is also weak. I deliberately undercut my own argument here."*
@@ -89,7 +89,7 @@ If yes → high band. If no → re-record the weakest 30 seconds.
 1. **Open line:** topic in one sentence, then *"three critical-analysis examples, two language-use examples."*
 2. **CA #1 — §3, 8.7%:** critique using the gene story's *own* number.
 3. **CA #2 — §3, European-only sample [1]:** evaluating evidence quality, not just citing.
-4. **CA #3 — §5, synthesis paragraph:** "sensitivity dial / culture decides the music" — built from [1][2][6], not from one source.
+4. **CA #3 — §5, synthesis paragraph:** closing sentence combines [1][2] (sensitivity bias) with [6] (exposure mechanism) into one claim — synthesis, not single-source.
 5. **LU #1 — §1, pho/Palmolive/Julia Child:** register choice for educated public.
 6. **LU #2 — §3, "Not 87. *Eight point seven.*":** prose rhythm as sci-comm technique.
 7. **Say out loud once:** *"the two perspectives I compare are genetics and culture/exposure."*

@@ -34,9 +34,9 @@ The other perspective starts from a fact that is hard to un-see: dislike of cila
 
 Underneath the map sits a well-established mechanism: the **mere-exposure effect**. Repeated, low-stakes meetings with a food, especially in childhood and in pleasant company, quietly move it from "novel" to "neutral" to "preferred" [6]. It is why almost no one is born loving black coffee or blue cheese, and why cilantro-haters who deliberately cook with it for a few weeks often report the soapy note receding and a citrus note stepping forward [1]. None of this knocks out the gene story: Mauer and El-Sohemy's ethnocultural categories partly mirror genetic ancestry [4], and whether mere-exposure can fully overwrite a strong soapy sensation remains mostly anecdotal [1], [6]. *How far* culture can bend a chemically intense aversion is the genuinely open question.
 
-## Genes set the dial, culture plays the music
+## Genes contribute a little; culture contributes most
 
-Lay them side by side and the math ends the argument. Genetics — on its own proponents' best estimate — explains under a tenth of the disagreement [2], with similarly modest effects across the wider olfactory genome [3], [7]. The other 90% lives in territory the geographic data describes far better [4], [5]. The cleanest synthesis: genetics hands you a small **sensitivity dial** — if you carry rs72921001, the aldehydes ring a little louder [1], [2] — but culture chooses the song those notes belong to, and a song can be rewritten over a few weeks of dinners in a way DNA never can [6].
+Lay them side by side and the math ends the argument. Genetics — on its own proponents' best estimate — explains under a tenth of the disagreement [2], with similarly modest effects across the wider olfactory genome [3], [7]. The other 90% lives in territory the geographic data describes far better [4], [5]. The cleanest synthesis is the plain one: if you carry rs72921001, the aldehydes register a little more strongly [1], [2]; the rest of whether you call cilantro pleasant or soapy is built from what you grew up eating, and how often [4], [5], [6].
 
 ## The story we keep buying
 
