@@ -36,7 +36,7 @@ Underneath the map sits a well-established mechanism: the **mere-exposure effect
 
 ## Genes set the dial, culture plays the music
 
-Lay them side by side and the math ends the argument. Genetics — on its own proponents' best estimate — explains under a tenth of the disagreement [2], with similarly modest effects across the wider olfactory genome [3], [7]. The other 90% lives in territory the geographic data describes far better [4], [5]. The cleanest synthesis: think of genetics as a small **sensitivity dial** wired into your nose — if you carry rs72921001, someone has nudged that dial a notch up, so the aldehydes ring a little louder [1], [2] — but what that loudness *means* (a welcome signal in pho, an intruder in salsa) is set by what you grew up eating, and that meaning can shift in a few weeks of dinners [6].
+Lay them side by side and the math ends the argument. Genetics — on its own proponents' best estimate — explains under a tenth of the disagreement [2], with similarly modest effects across the wider olfactory genome [3], [7]. The other 90% lives in territory the geographic data describes far better [4], [5]. The cleanest synthesis: think of genetics as a small **sensitivity dial** wired into your nose — if you carry rs72921001, someone has nudged that dial a notch up, so the aldehydes ring a little louder [1], [2] — but whether your nose reads that loudness as *"pho"* or as *"wrong"* is decided at the dinner table, not in your DNA — and the table can change its mind in a few weeks of meals; your genome never will [6].
 
 ## The story we keep buying
 
