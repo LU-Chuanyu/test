@@ -85,6 +85,13 @@ p.figure-caption {
 }
 
 a { color: #000; text-decoration: none; word-break: break-all; }
+.word-count {
+    text-align: right;
+    font-style: italic;
+    color: #666666;
+    font-size: 10pt;
+    margin-top: 1.2em;
+}
 """
 
 
