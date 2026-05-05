@@ -8,7 +8,7 @@
 
 Order pho with five friends. Three dive in. One pushes the green flecks to the rim. The fifth pulls a face and announces that the soup tastes like Palmolive. Cilantro has a way of doing that: Julia Child once said she would pick it out of a dish and "throw it on the floor" [1]; a Facebook group called *I Hate Coriander* has hundreds of thousands of members [1]. No other salad garnish has its own hate club.
 
-The interesting question isn't *who* hates it but *why the same leaf produces two opposite experiences*. Two explanations get traded. One is **genetic**: you inherited the variant that turns the leaf soapy, or you didn't. The other is **cultural**: what you ate growing up trained your nose. What this blog maps out is the route between them: genes do get a vote, but experience casts the louder one.
+The interesting question isn't *who* hates it but *why the same leaf produces two opposite experiences*. Two explanations get traded. One is **genetic**: you inherited the variant that turns the leaf soapy, or you didn't. The other is **cultural**: what you ate growing up trained your nose. This blog explores the route between them, and argues that genes do get a vote, but experience casts the louder one.
 
 ## The science in one bite
 
