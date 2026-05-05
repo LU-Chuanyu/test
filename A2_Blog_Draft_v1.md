@@ -54,16 +54,16 @@ If you've spent years saying you "have the cilantro gene," the science is asking
 
 ## References
 
-[1] C. Spence, "Coriander (cilantro): A most divisive herb," *International Journal of Gastronomy and Food Science*, vol. 33, Art. no. 100779, 2023, doi: <https://doi.org/10.1016/j.ijgfs.2023.100779>.
+[1] C. Spence, "Coriander (cilantro): A most divisive herb," *International Journal of Gastronomy and Food Science*, vol. 33, Art. no. 100779, 2023, doi: 10.1016/j.ijgfs.2023.100779.
 
-[2] N. Eriksson, S. Wu, C. B. Do, A. K. Kiefer, J. Y. Tung, J. L. Mountain, D. A. Hinds, and U. Francke, "A genetic variant near olfactory receptor genes influences cilantro preference," *Flavour*, vol. 1, Art. no. 22, 2012, doi: <https://doi.org/10.1186/2044-7248-1-22>.
+[2] N. Eriksson, S. Wu, C. B. Do, A. K. Kiefer, J. Y. Tung, J. L. Mountain, D. A. Hinds, and U. Francke, "A genetic variant near olfactory receptor genes influences cilantro preference," *Flavour*, vol. 1, Art. no. 22, 2012, doi: 10.1186/2044-7248-1-22.
 
-[3] C. Trimmer, A. Keller, N. R. Murphy, L. L. Snyder, J. R. Willer, M. H. Nagai, N. Katsanis, L. B. Vosshall, H. Matsunami, and J. D. Mainland, "Genetic variation across the human olfactory receptor repertoire alters odor perception," *Proceedings of the National Academy of Sciences*, vol. 116, no. 19, pp. 9475–9480, 2019, doi: <https://doi.org/10.1073/pnas.1804106115>.
+[3] C. Trimmer, A. Keller, N. R. Murphy, L. L. Snyder, J. R. Willer, M. H. Nagai, N. Katsanis, L. B. Vosshall, H. Matsunami, and J. D. Mainland, "Genetic variation across the human olfactory receptor repertoire alters odor perception," *Proceedings of the National Academy of Sciences*, vol. 116, no. 19, pp. 9475–9480, 2019, doi: 10.1073/pnas.1804106115.
 
-[4] B. Li, M. Kamarck, Q. Peng, F.-L. Lim, A. Keller, M. M. Smeets, J. D. Mainland, and S. Wang, "From musk to body odor: Decoding olfaction through genetic variation," *PLOS Genetics*, vol. 18, no. 2, Art. no. e1009564, 2022, doi: <https://doi.org/10.1371/journal.pgen.1009564>.
+[4] B. Li, M. Kamarck, Q. Peng, F.-L. Lim, A. Keller, M. M. Smeets, J. D. Mainland, and S. Wang, "From musk to body odor: Decoding olfaction through genetic variation," *PLOS Genetics*, vol. 18, no. 2, Art. no. e1009564, 2022, doi: 10.1371/journal.pgen.1009564.
 
-[5] D. V. Byrne, "Current trends in food health and safety in cross-cultural sensory and consumer science," *Foods*, vol. 10, no. 5, Art. no. 965, 2021, doi: <https://doi.org/10.3390/foods10050965>.
+[5] D. V. Byrne, "Current trends in food health and safety in cross-cultural sensory and consumer science," *Foods*, vol. 10, no. 5, Art. no. 965, 2021, doi: 10.3390/foods10050965.
 
-[6] L. Mauer and A. El-Sohemy, "Prevalence of cilantro (*Coriandrum sativum*) disliking among different ethnocultural groups," *Flavour*, vol. 1, Art. no. 8, 2012, doi: <https://doi.org/10.1186/2044-7248-1-8>.
+[6] L. Mauer and A. El-Sohemy, "Prevalence of cilantro (*Coriandrum sativum*) disliking among different ethnocultural groups," *Flavour*, vol. 1, Art. no. 8, 2012, doi: 10.1186/2044-7248-1-8.
 
-[7] Q. Zhang, D. Elsweiler, and C. Trattner, "Decoding global palates: Unveiling cross-cultural flavor preferences through online recipes," *Foods*, vol. 14, no. 8, Art. no. 1411, 2025, doi: <https://doi.org/10.3390/foods14081411>.
+[7] Q. Zhang, D. Elsweiler, and C. Trattner, "Decoding global palates: Unveiling cross-cultural flavor preferences through online recipes," *Foods*, vol. 14, no. 8, Art. no. 1411, 2025, doi: 10.3390/foods14081411.
