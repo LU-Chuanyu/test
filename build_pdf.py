@@ -48,7 +48,7 @@ hr {
     height: 0.75pt;
     background-color: #cccccc;
     color: #cccccc;
-    margin: 0.8em 0;
+    margin: 0.5em 0;
 }
 h1 {
     font-size: 20pt;
@@ -67,12 +67,12 @@ h1 + p em:only-child {
 h2 {
     font-size: 14pt;
     font-weight: bold;
-    margin: 1em 0 0.4em 0;
+    margin: 0.8em 0 0.3em 0;
 }
-p { margin: 0 0 0.6em 0; }
+p { margin: 0 0 0.5em 0; }
 em { font-style: italic; }
 strong { font-weight: bold; }
-img { max-width: 100%; display: block; margin: 0.6em auto; }
+img { max-width: 100%; display: block; margin: 0.3em auto 0.1em auto; }
 /* Figure captions: a paragraph immediately following an image-only paragraph
    that begins with "Figure ..." renders centered in soft gray italic. */
 figcaption,
@@ -81,7 +81,7 @@ p.figure-caption {
     font-style: italic;
     color: #666666;
     font-size: 11pt;
-    margin: 0.2em 0 1em 0;
+    margin: 0 0 0.7em 0;
 }
 
 a { color: #000; text-decoration: none; word-break: break-all; }
@@ -90,7 +90,7 @@ a { color: #000; text-decoration: none; word-break: break-all; }
     font-style: italic;
     color: #666666;
     font-size: 10pt;
-    margin-top: 1.2em;
+    margin-top: 0.4em;
 }
 """
 
