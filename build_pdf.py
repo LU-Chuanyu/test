@@ -38,10 +38,17 @@ CSS_STR = """
 html, body {
     font-family: "Liberation Serif", serif;
     font-size: 11pt;
-    line-height: 1.4;
+    line-height: 1.45;
     color: #000;
 }
 body { text-align: justify; hyphens: auto; }
+hr {
+    border: none;
+    height: 0.75pt;
+    background-color: #cccccc;
+    color: #cccccc;
+    margin: 0.8em 0;
+}
 h1 {
     font-size: 20pt;
     font-weight: bold;
@@ -65,6 +72,16 @@ p { margin: 0 0 0.6em 0; }
 em { font-style: italic; }
 strong { font-weight: bold; }
 img { max-width: 100%; display: block; margin: 0.6em auto; }
+/* Figure captions: a paragraph immediately following an image-only paragraph
+   that begins with "Figure ..." renders centered in soft gray italic. */
+figcaption,
+p.figure-caption {
+    text-align: center;
+    font-style: italic;
+    color: #222222;
+    font-size: 11pt;
+    margin: 0.2em 0 1em 0;
+}
 
 a { color: #000; text-decoration: none; word-break: break-all; }
 """
@@ -76,6 +93,21 @@ def main() -> None:
         md_text,
         extensions=["extra", "sane_lists"],
         output_format="html5",
+    )
+    # Tag figure-caption paragraphs. Python-Markdown joins an image and a
+    # following italic caption ("*Figure ...*") into one <p>; split that into
+    # a separate centered, soft-gray italic caption paragraph.
+    import re
+    html_body = re.sub(
+        r'<p>(<img[^>]*>)\s*<em>(Figure [^<]*)</em>\s*</p>',
+        r'<p>\1</p>\n<p class="figure-caption"><em>\2</em></p>',
+        html_body,
+    )
+    # Also catch the standalone form, in case markdown ever emits it.
+    html_body = re.sub(
+        r'<p>(<em>Figure [^<]*</em>)</p>',
+        r'<p class="figure-caption">\1</p>',
+        html_body,
     )
     html_doc = f"""<!doctype html>
 <html lang=\"en\">
