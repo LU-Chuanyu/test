@@ -39,7 +39,7 @@ CSS_STR = """
 html, body {
     font-family: "Liberation Serif", serif;
     font-size: 11pt;
-    line-height: 1.45;
+    line-height: 1.5;
     color: #000;
 }
 body { text-align: justify; hyphens: auto; }
@@ -67,12 +67,16 @@ h1 + p em:only-child {
 h2 {
     font-size: 14pt;
     font-weight: bold;
-    margin: 0.8em 0 0.3em 0;
+    margin: 0.6em 0 0.25em 0;
 }
-p { margin: 0 0 0.5em 0; }
+p { margin: 0 0 0.45em 0; }
 em { font-style: italic; }
 strong { font-weight: bold; }
-img { max-width: 100%; display: block; margin: 0.3em auto 0.1em auto; }
+img { max-width: 100%; display: block; margin: 0.3em auto 0 auto; }
+/* When the markdown processor wraps an image in its own paragraph, the
+   paragraph's bottom margin would push the figure caption away from the
+   image. Zero it out so the caption sits snug under the figure. */
+p.figure-image { margin: 0; }
 /* Figure captions: a paragraph immediately following an image-only paragraph
    that begins with "Figure ..." renders centered in soft gray italic. */
 figcaption,
@@ -81,7 +85,7 @@ p.figure-caption {
     font-style: italic;
     color: #666666;
     font-size: 11pt;
-    margin: 0 0 0.7em 0;
+    margin: 0.1em 0 0.7em 0;
 }
 
 a { color: #000; text-decoration: none; word-break: break-all; }
@@ -90,7 +94,7 @@ a { color: #000; text-decoration: none; word-break: break-all; }
     font-style: italic;
     color: #666666;
     font-size: 10pt;
-    margin-top: 0.4em;
+    margin-top: 0.2em;
 }
 """
 
@@ -108,13 +112,20 @@ def main() -> None:
     import re
     html_body = re.sub(
         r'<p>(<img[^>]*>)\s*<em>(Figure [^<]*)</em>\s*</p>',
-        r'<p>\1</p>\n<p class="figure-caption"><em>\2</em></p>',
+        r'<p class="figure-image">\1</p>\n<p class="figure-caption"><em>\2</em></p>',
         html_body,
     )
     # Also catch the standalone form, in case markdown ever emits it.
     html_body = re.sub(
         r'<p>(<em>Figure [^<]*</em>)</p>',
         r'<p class="figure-caption">\1</p>',
+        html_body,
+    )
+    # Tag any remaining paragraphs that contain only an image so their
+    # bottom margin doesn't add extra whitespace before the caption.
+    html_body = re.sub(
+        r'<p>(<img[^>]*>)</p>',
+        r'<p class="figure-image">\1</p>',
         html_body,
     )
     html_doc = f"""<!doctype html>
