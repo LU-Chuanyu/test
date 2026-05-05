@@ -1,7 +1,7 @@
 """Build A2_Blog_Draft_v1.pdf from A2_Blog_Draft_v1.md.
 
 Style goals (kept consistent with the previously approved layout):
-- A4, 1.8cm margins
+- A4, 1.4cm margins
 - Serif (Liberation Serif), justified body at 11pt
 - H1 (title) 20pt bold, H2 14pt bold
 - Italic emphasis renders inline at body size (no centered block treatment)
@@ -23,10 +23,10 @@ AUTHOR = "LU Chuanyu (Marcus)"
 CSS_STR = """
 @page {
     size: A4;
-    margin: 1.8cm;
+    margin: 1.4cm;
 }
 @page :first {
-    margin-top: 1.2cm;
+    margin-top: 1.0cm;
     @top-left {
         content: "LU Chuanyu (Marcus)";
         font-family: "Liberation Serif", serif;
