@@ -26,13 +26,14 @@ CSS_STR = """
     margin: 1.8cm;
 }
 @page :first {
+    margin-top: 1.2cm;
     @top-left {
         content: "LU Chuanyu (Marcus)";
         font-family: "Liberation Serif", serif;
         font-size: 11pt;
         font-weight: normal;
         color: #000;
-        margin-bottom: 0.4cm;
+        vertical-align: bottom;
     }
 }
 html, body {
@@ -78,7 +79,7 @@ figcaption,
 p.figure-caption {
     text-align: center;
     font-style: italic;
-    color: #222222;
+    color: #666666;
     font-size: 11pt;
     margin: 0.2em 0 1em 0;
 }
