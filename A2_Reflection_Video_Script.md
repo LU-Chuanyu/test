@@ -6,63 +6,71 @@ The LANG 1409 brief explicitly forbids reading from a script and penalises over-
 
 This script exists only as a reference for what each section should *cover* and roughly how long it should *run*.
 
-- Target length: ~3:30 (inside the 3:20–3:45 safety window, comfortably within the 3–4 min hard limit)
-- Word count: ~490 words at ~140 wpm
+- Target length: ~3:35 (inside the 3:20–3:45 safety window, comfortably within the 3–4 min hard limit)
+- Word count: ~510 words at ~145 wpm
 - Setup: PDF of `A2_Blog_Draft_v1.md` open and screen-shared, scrolled to the top, References pre-scrolled-to in a second tab. Cursor used as a pointer.
 
 ---
 
-## 0:00 – 0:20 · Frame (~45 words)
+## 0:00 – 0:20 · Frame (~50 words)
 
-> Okay, so my blog post is about why cilantro tastes like soap to some people and like summer to others — basically a debate between a genetic and a cultural explanation. In this video I'll highlight three places where the post demonstrates critical analysis, and two places where it demonstrates language use for the educated public.
+> Okay, so my blog post is about why cilantro tastes like soap to some people and like summer to others — basically a debate between a genetic and a cultural explanation. In this video I'll highlight four places where the post demonstrates critical analysis, and two places where it demonstrates language use for the educated public.
 
 *[Cursor stays on the title. No scrolling yet.]*
 
 ---
 
-## 0:20 – 0:55 · Critical Analysis #1 — the 8.7% number, §3 (~80 words)
+## 0:20 – 0:50 · Critical Analysis #1 — the 8.7% number, §3 (~70 words)
 
-> Let me scroll down to section three — "The gene that gets too much credit." So this is my strongest critical-analysis move. The 8.7% figure comes from Eriksson's 23andMe paper — the same study that's usually cited *for* the gene story. I deliberately turned the genetic perspective's own best estimate against itself. That's critique using internal evidence — I'm not attacking the source from outside, I'm quoting its own effect size to undercut the popular "it's all genetic" framing.
+> Let me scroll down to section three — "The gene that gets too much credit." This is my strongest critical-analysis move. The 8.7% figure comes from Eriksson's 23andMe paper — the same study usually cited *for* the gene story. I deliberately turned the genetic perspective's own best estimate against itself. That's critique using internal evidence — quoting the source's own effect size to undercut the "it's all genetic" framing.
 
-*[Hover the cursor over "8.7%" and "Not 87. Eight point seven." before saying the number.]*
+*[Hover the cursor over "8.7%" before saying the number.]*
 
 ---
 
-## 0:55 – 1:30 · Critical Analysis #2 — European-only sample, §3 (~80 words)
+## 0:50 – 1:20 · Critical Analysis #2 — European-only sample, §3 (~70 words)
 
-> Staying in section three — uh, this sentence here, citing reference [1]. I flagged that the 23andMe sample was almost entirely European, and that whether rs72921001 carries the same weight in East Asian or African noses is, quote, "still effectively untested at scale." The skill I'm showing is evaluating evidence quality, not just citing it. I'm naming a generalisability limit on the very evidence my argument partly depends on.
+> Staying in section three — uh, this sentence here, citing reference [1]. I flagged that the 23andMe sample was almost entirely European, and that whether rs72921001 carries the same weight in East Asian or African noses is, quote, "still effectively untested at scale." The skill I'm showing is evaluating evidence quality, not just citing it — naming a generalisability limit on the very evidence my argument partly depends on.
 
 *[Hover over the [1] citation, then over the phrase "still effectively untested at scale."]*
 
 ---
 
-## 1:30 – 2:10 · Critical Analysis #3 — synthesis paragraph, §5 (~85 words)
+## 1:20 – 1:55 · Critical Analysis #3 — synthesis paragraph, §5 (~65 words)
 
-> Now let me jump to section five — "Where genes end and kitchens begin." This paragraph is where I synthesize, rather than just summarise. The framing — "a small sensitivity dial … but the verdict on that loudness is handed down at the dinner table, not by your DNA" — is mine. It's built from references one, two, five, six and seven together; it's not lifted from any single source. So just to be explicit: the two perspectives I'm comparing are genetics and culture-and-exposure, and this is where I bring them into one frame instead of leaving them side by side.
+> Now jump to section five — "Where genes end and kitchens begin." This is where I synthesize, not just summarise. The framing — "a small sensitivity dial … but the verdict on that loudness is handed down at the dinner table, not by your DNA" — is mine, built from references one, two, five, six and seven, not from any single source. Just to be explicit: the two perspectives I'm comparing are genetics and culture-and-exposure.
 
-*[Hover over "small sensitivity dial," then over "handed down at the dinner table, not by your DNA," then over [1], [2], [5], [6], [7] in turn.]*
+*[Hover over "sensitivity dial," then "handed down at the dinner table, not by your DNA," then [1], [2], [5], [6], [7].]*
 
 ---
 
-## 2:10 – 2:40 · Language Use #1 — the opening pho scene, §1 (~70 words)
+## 1:55 – 2:35 · Critical Analysis #4 — the consumerism trap and its takeaway, §6 (~85 words)
 
-> Switching to language use. Let me scroll back to the opening. The brief asks for engaging writing for the educated public — not too formal, not too casual. A literature-review opening would be too formal; "cilantro is yummy lol" would be too informal. So I open with a concrete sensory scene — pho, Palmolive, Julia Child throwing it on the floor. Named, specific details. That's a deliberate register choice, not just colour.
+> Now scroll down to section six — "The story we keep buying." This is where the critique stops being just about cilantro. First layer: the irony that the 8.7% number — the one that *deflates* the gene story — was published by 23andMe itself, a company whose business model depends on the *opposite* implication. That's critique of who profits from which half of the paper getting quoted. Second layer, this sentence: I extend it into a wider warning — "what else are we taught to read as nature rather than history?" That's the post's *so-what*.
+
+*[Hover over "23andMe," then scroll one paragraph down and hover over "what else we are taught to read as nature rather than history."]*
+
+---
+
+## 2:40 – 3:05 · Language Use #1 — the opening pho scene, §1 (~60 words)
+
+> Switching to language use. Let me scroll back to the opening. The brief asks for engaging writing for the educated public — not too formal, not too casual. A literature-review opening would be too formal; "cilantro is yummy lol" would be too informal. So I open with a concrete sensory scene — pho, Palmolive, Julia Child throwing it on the floor. That's a deliberate register choice.
 
 *[Scroll back to the top. Hover over "pho," then "Palmolive," then "Julia Child."]*
 
 ---
 
-## 2:40 – 3:10 · Language Use #2 — the closing cadence, §5 (~65 words)
+## 3:05 – 3:30 · Language Use #2 — the closing cadence, §5 (~60 words)
 
-> And one more — still in section five, the final line of that paragraph. "And the table reverses itself in a few weeks; your DNA never will." I could've written "cultural taste changes faster than genes do." Instead I broke it into two short, parallel clauses with a semicolon, so the contrast lands as a beat, not as a fact. That's prose rhythm doing rhetorical work — a science-communication move, not just style.
+> And one more — back in section five, the final line of that paragraph. "And the table reverses itself in a few weeks; your DNA never will." I could've written "cultural taste changes faster than genes do." Instead I broke it into two short, parallel clauses with a semicolon, so the contrast lands as a beat. Prose rhythm doing rhetorical work — a science-communication move, not just style.
 
 *[Hover over "the table reverses itself in a few weeks; your DNA never will."]*
 
 ---
 
-## 3:10 – 3:30 · Close — self-critique (~45 words)
+## 3:30 – 3:40 · Close — self-critique (~25 words)
 
-> If I had another draft, the thing I'd push hardest on is finding a non-Western replication of rs72921001 — the post flags that gap but doesn't fully resolve it. So the gene critique would land even harder if that data existed. That's it — thanks for watching.
+> If I had another draft, I'd push hardest on a non-Western replication of rs72921001 — the post flags the gap but doesn't fully close it. Thanks for watching.
 
 *[Cursor can drift back up to the title or land on the References. Stop recording.]*
 
