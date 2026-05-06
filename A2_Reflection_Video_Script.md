@@ -2,73 +2,65 @@
 
 **Important — read this first:**
 
-The LANG 1409 brief explicitly forbids reading from a script and penalises over-rehearsed delivery. **Do not read this aloud.** Use it the way the guide recommends: rehearse it 2–3 times, then record from the 8-bullet sticky-note in `A2_Reflection_Video_Guide.md` §9. Let yourself paraphrase, pause, self-correct, and say "uh" — that natural disfluency is *required* by the brief.
+The LANG 1409 brief explicitly forbids reading from a script and penalises over-rehearsed delivery. **Do not read this aloud.** Use it the way the guide recommends: rehearse it 2–3 times, then record from the 9-bullet sticky-note in `A2_Reflection_Video_Guide.md` §9. Let yourself paraphrase, pause, self-correct, and say "uh" — that natural disfluency is *required* by the brief.
 
 This script exists only as a reference for what each section should *cover* and roughly how long it should *run*.
 
-- Target length: ~3:35 (inside the 3:20–3:45 safety window, comfortably within the 3–4 min hard limit)
-- Word count: ~510 words at ~145 wpm
-- Setup: PDF of `A2_Blog_Draft_v1.md` open and screen-shared, scrolled to the top, References pre-scrolled-to in a second tab. Cursor used as a pointer.
+- Target length: ~3:40 (inside the 3:20–3:45 safety window at a natural ~155–160 wpm; comfortably within the 3–4 min hard limit)
+- Word count: ~575 words
+- Setup: PDF of `A2_Blog_Draft_v1.pdf` open and screen-shared, scrolled to the top, References pre-scrolled-to in a second tab. Cursor used as a pointer.
 
 ---
 
-## 0:00 – 0:20 · Frame (~50 words)
+## 0:00 – 0:15 · Frame (~35 words)
 
-> Okay, so my blog post is about why cilantro tastes like soap to some people and like summer to others — basically a debate between a genetic and a cultural explanation. In this video I'll highlight four places where the post demonstrates critical analysis, and two places where it demonstrates language use for the educated public.
+> My blog is on why cilantro tastes like soap to some people and like summer to others — genetics versus culture. I'll walk you through three critical-analysis moves and two language-use moves.
 
-*[Cursor stays on the title. No scrolling yet.]*
-
----
-
-## 0:20 – 0:50 · Critical Analysis #1 — the 8.7% number, §3 (~70 words)
-
-> Let me scroll down to section three — "The gene that gets too much credit." This is my strongest critical-analysis move. The 8.7% figure comes from Eriksson's 23andMe paper — the same study usually cited *for* the gene story. I deliberately turned the genetic perspective's own best estimate against itself. That's critique using internal evidence — quoting the source's own effect size to undercut the "it's all genetic" framing.
-
-*[Hover the cursor over "8.7%" before saying the number.]*
+*[Cursor on the title. No scrolling yet.]*
 
 ---
 
-## 0:50 – 1:20 · Critical Analysis #2 — European-only sample, §3 (~70 words)
+## 0:15 – 0:55 · Critical Analysis #1 — Genetic perspective, §3 (~85 words)
 
-> Staying in section three — uh, this sentence here, citing reference [1]. I flagged that the 23andMe sample was almost entirely European, and that whether rs72921001 carries the same weight in East Asian or African noses is, quote, "still effectively untested at scale." The skill I'm showing is evaluating evidence quality, not just citing it — naming a generalisability limit on the very evidence my argument partly depends on.
+> My first move is section three — "The gene that gets too much credit." The genetic story has one flagship paper, Eriksson at 23andMe. Instead of attacking it from outside, I turned it against itself. Buried in that same paper is the number 8.7% — that's how much of the cilantro disagreement *all* of genetics explains, on the authors' own estimate. Their "soapy" variant only nudged people 0.4 of a point on an 11-point scale. I also flag that the sample was overwhelmingly European, so whether rs72921001 carries the same weight in East Asian or African noses is "still effectively untested at scale." That's source evaluation — reading what a paper's own numbers and own sample *limit* it to, not just citing it.
 
-*[Hover over the [1] citation, then over the phrase "still effectively untested at scale."]*
-
----
-
-## 1:20 – 1:55 · Critical Analysis #3 — synthesis paragraph, §5 (~65 words)
-
-> Now jump to section five — "Where genes end and kitchens begin." This is where I synthesize, not just summarise. The framing — "a small sensitivity dial … but the verdict on that loudness is handed down at the dinner table, not by your DNA" — is mine, built from references one, two, five, six and seven, not from any single source. Just to be explicit: the two perspectives I'm comparing are genetics and culture-and-exposure.
-
-*[Hover over "sensitivity dial," then "handed down at the dinner table, not by your DNA," then [1], [2], [5], [6], [7].]*
+*[Hover over "8.7%", then "0.4 of a point", then over the [1] citation at "still effectively untested at scale."]*
 
 ---
 
-## 1:55 – 2:35 · Critical Analysis #4 — the consumerism trap and its takeaway, §6 (~85 words)
+## 0:55 – 1:30 · Critical Analysis #2 — Cultural perspective, §4 (~70 words)
 
-> Now scroll down to section six — "The story we keep buying." This is where the critique stops being just about cilantro. First layer: the irony that the 8.7% number — the one that *deflates* the gene story — was published by 23andMe itself, a company whose business model depends on the *opposite* implication. That's critique of who profits from which half of the paper getting quoted. Second layer, this sentence: I extend it into a wider warning — "what else are we taught to read as nature rather than history?" That's the post's *so-what*.
+> My second move is section four — "The kitchen that tunes your nose." This one's harder, because here I'm critiquing my *own* preferred side. The cultural perspective leans on Mauer and El-Sohemy's ethnocultural survey, but I admit: their categories partly track genetic ancestry, so some of what *looks* cultural may quietly be the genetic signal in disguise. And recipes describe what kitchens *cook*, not what individual mouths *enjoy*. Top-band critique isn't only attacking the other side — it's naming the cracks in the side you actually argue *for*.
 
-*[Hover over "23andMe," then scroll one paragraph down and hover over "what else we are taught to read as nature rather than history."]*
-
----
-
-## 2:40 – 3:05 · Language Use #1 — the opening pho scene, §1 (~60 words)
-
-> Switching to language use. Let me scroll back to the opening. The brief asks for engaging writing for the educated public — not too formal, not too casual. A literature-review opening would be too formal; "cilantro is yummy lol" would be too informal. So I open with a concrete sensory scene — pho, Palmolive, Julia Child throwing it on the floor. That's a deliberate register choice.
-
-*[Scroll back to the top. Hover over "pho," then "Palmolive," then "Julia Child."]*
+*[Hover over "ethnocultural categories partly track genetic ancestry," then over "individual mouths."]*
 
 ---
 
-## 3:05 – 3:30 · Language Use #2 — the closing cadence, §5 (~60 words)
+## 1:30 – 2:15 · Critical Analysis #3 — The story we keep buying, §6 (~85 words)
 
-> And one more — back in section five, the final line of that paragraph. "And the table reverses itself in a few weeks; your DNA never will." I could've written "cultural taste changes faster than genes do." Instead I broke it into two short, parallel clauses with a semicolon, so the contrast lands as a beat. Prose rhythm doing rhetorical work — a science-communication move, not just style.
+> My third and deepest move is section six — "The story we keep buying." This is where the post stops being about a herb. The 8.7% number — the one that *deflates* the gene story — was published by 23andMe itself, a company whose business model is the *opposite* claim: that who you are is sealed in your saliva for a hundred dollars. So I'm not just critiquing a study; I'm critiquing who profits from which half of it gets quoted. Then I push it further — if "I just don't like cilantro" is a tidy genetic excuse, what *else* are we taught to read as nature rather than history? And the hopeful flip side: if biology writes only a tenth of the choice, none of us are pre-defined by what we're made of. That's the *so-what* of the whole post.
 
-*[Hover over "the table reverses itself in a few weeks; your DNA never will."]*
+*[Hover over "23andMe" and "a hundred dollars," then scroll down and hover over "what else we are taught to read as nature rather than history," then over "none of us are pre-defined by what we are made of."]*
 
 ---
 
-## 3:30 – 3:40 · Close — self-critique (~25 words)
+## 2:15 – 2:45 · Language Use #1 — The opening hook, §1 (~60 words)
+
+> On language use — first, the opening hook. The brief asks for an educated-public register, so I open with a scene, not a thesis. Five friends ordering pho — three dive in, one pushes the green to the rim, one says it tastes like Palmolive. Then Julia Child throwing it on the floor and a Facebook hate-club called "I Hate Coriander." Concrete, sensory, and funny enough to earn the science that follows.
+
+*[Scroll back to the top. Hover over "pho," then "Palmolive," then "Julia Child," then "I Hate Coriander."]*
+
+---
+
+## 2:45 – 3:20 · Language Use #2 — The closing payoff, §7 (~65 words)
+
+> Second, the very last line of the blog: "The tongue you grew up with isn't a verdict; it's a draft." One sentence doing four things. A metaphor that reframes taste as something rewritable. A semicolon-balanced parallel. A callback to the word *verdict*, which I planted back in section two. And a payoff to the "soap or summer" question in the title. That's prose rhythm doing real rhetorical work.
+
+*[Scroll to the closing section "Your tongue isn't broken." Hover over "isn't a verdict; it's a draft."]*
+
+---
+
+## 3:20 – 3:35 · Close — self-critique (~25 words)
 
 > If I had another draft, I'd push hardest on a non-Western replication of rs72921001 — the post flags the gap but doesn't fully close it. Thanks for watching.
 

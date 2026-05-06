@@ -23,43 +23,43 @@ Three things from the LANG 1409 brief that most students miss, and that drive th
 - **C. Talks about trade-offs and alternatives.** *"I could have led with the gene story, but I chose to open with the dinner-table scene because…"* Showing you considered other choices = critical thinking about your own writing.
 - **D. Sounds like a person.** Natural pauses, occasional "uh," self-correction, looking-at-the-screen verbs (*"let me scroll down to…"*). Over-rehearsed delivery reads as scripted and is penalised by the brief.
 
-## 3. Suggested structure (~3:35 total)
+## 3. Suggested structure (~3:40 total)
 
 | Time        | Section                                  | What you say                                                                                                                                                                                                                                                                          |
 |-------------|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0:00–0:20   | Frame                                    | One sentence on the topic, then immediately: *"In this video I'll highlight four places where the post demonstrates critical analysis, and two places where it demonstrates language use for the educated public."* This sentence alone wins marks because it tells the marker exactly what you're about to evidence. |
-| 0:20–2:35   | **Critical Analysis** (~2:15, the bigger criterion) | Walk through 4 concrete examples from the blog (see §4 below). The fourth — §6's consumerism / *so-what* layer — is the band-lifter, because it shows critique of the *sociology* of the evidence and of the post's own takeaway, not just the data. |
-| 2:35–3:30   | **Language Use** (~0:55)                 | Walk through 2 concrete examples (see §5 below).                                                                                                                                                                                                                                      |
-| 3:30–3:40   | Close                                    | **One short** sentence on what you'd improve if you had another draft (shows self-critique, signals high band — keep it brief).                                                                                                                                                       |
+| 0:00–0:15   | Frame                                    | One short sentence: topic + *"three critical-analysis moves and two language-use moves."* No more. The marker just needs the contract.                                                                                                                                                |
+| 0:15–2:15   | **Critical Analysis** (~2:00, the bigger criterion) | Three concrete moves (see §4 below): the **two perspectives** + **§6 "The story we keep buying"**. The §6 move is the band-lifter — critique of the *sociology* of the evidence + the post's *so-what*.                                                                              |
+| 2:15–3:20   | **Language Use** (~1:05)                 | Two concrete moves (see §5 below): the opening hook and the closing "verdict / draft" line.                                                                                                                                                                                           |
+| 3:20–3:35   | Close                                    | **One short** sentence on what you'd improve if you had another draft (signals high band — keep it brief).                                                                                                                                                                            |
 
-## 4. Concrete moments to highlight — Critical Analysis (pick 4)
+## 4. Concrete moments to highlight — Critical Analysis (the three to use)
 
-> Critical Analysis = synthesis + critique of two perspectives.
+> Critical Analysis = synthesis + critique of the two perspectives. Pick **one move per perspective**, plus **§6** as the deeper third.
 
-- **§3 "The gene that gets too much credit" — the 8.7% number.** This is the strongest single move in the post. Say:
-  *"I deliberately put the genetic perspective's own best estimate against itself — Eriksson's paper [2] is the source most often cited *for* the gene story, so quoting its own effect size is the cleanest possible critique."*
-  That's textbook *critique using internal evidence*, which is a top-band move.
-- **§3 limitation about the European-only sample [1].** Shows you didn't take a finding at face value — you flagged a *generalisability* limit. Name the skill: *"evaluating evidence quality, not just citing it."*
-- **§5 "Where genes end and kitchens begin" — the synthesis paragraph.** Explicitly say:
-  *"This is where I synthesize, rather than just summarise — the 'small sensitivity dial / verdict handed down at the dinner table, not by your DNA' framing is mine, built from refs [1][2][5][6][7], not lifted from any one source."*
-  Synthesis is a named rubric word; use it out loud.
-- **§6 "The story we keep buying" — two-layer critique (the band-lifter).** This is where the post stops being about cilantro. Hit both layers out loud:
-  - *Layer 1 — the consumerism / sociology-of-evidence trap:* the 8.7% number — the one that *deflates* the gene story — was published by 23andMe itself, whose business model depends on the *opposite* implication. Say: *"I'm not just critiquing the evidence; I'm critiquing who profits from which half of the paper gets quoted."*
-  - *Layer 2 — the takeaway / what it means for us:* the cilantro case becomes a wider question — *"what else are we taught to read as nature rather than history?"* Say: *"This is where the post earns its 'so-what' — turning a small genetic finding into a question about how much of a life we let biology pre-write for us."*
-- **(Optional alternative) §4 — the honest concession** (*"because their ethnocultural categories partly track genetic ancestry, the cultural pattern may quietly absorb some of the very genetic signal it appears to dwarf"*). Use this only if you're swapping out one of the four above. *"Top-band critique acknowledges where your preferred perspective is also weak."*
+- **CA #1 · Genetic perspective — §3 "The gene that gets too much credit."** Two beats inside one move: the **8.7%** number from Eriksson, and a **source evaluation** of that same paper.
+  - The 8.7% beat: *"I turned the genetic perspective's own best estimate against itself. 8.7% is what *all* of genetics explains, by Eriksson's own number; the 'soapy' variant only nudged people 0.4 of a point on an 11-point scale."* That's *critique using internal evidence*.
+  - The source-evaluation beat: *"The 23andMe sample was almost entirely European, so whether rs72921001 carries the same weight in East Asian or African noses is, in Spence's words, 'still effectively untested at scale.'"* Name the skill: *"reading what a paper's own numbers and own sample size *limit* it to, not just citing it."*
+- **CA #2 · Cultural perspective — §4 "The kitchen that tunes your nose."** Critique your *own* preferred side. Two beats:
+  - *"Mauer & El-Sohemy's ethnocultural categories partly track genetic ancestry, so some of what looks cultural may quietly be the genetic signal in disguise."*
+  - *"Recipes describe what kitchens cook, not what individual mouths enjoy."*
+  - Frame: *"Top-band critique isn't only attacking the other side; it's naming the cracks in the side I actually argue *for*."*
+- **CA #3 · §6 "The story we keep buying" — the band-lifter.** This is where the post stops being about a herb. Hit two layers:
+  - *Layer 1 — the consumerism trap / sociology-of-evidence critique:* the 8.7% number — the one that *deflates* the gene story — was published by 23andMe itself, whose business model is the *opposite* claim. Say: *"I'm not just critiquing a study; I'm critiquing who profits from which half of it gets quoted."*
+  - *Layer 2 — the takeaway / hopeful flip side:* *"If 'I just don't like cilantro' is a tidy genetic excuse, what *else* are we taught to read as nature rather than history? And if biology writes only a tenth of the choice, none of us are pre-defined by what we're made of."* Frame: *"That's the *so-what* the whole post is built around — don't let a partial gene story define us."*
 
-## 5. Concrete moments to highlight — Language Use (pick 2)
+## 5. Concrete moments to highlight — Language Use (the two to use)
 
 > Language Use = engaging, register-appropriate for the educated public, IEEE.
 
-- **The opening pho scene (§1).** Explain the register choice:
-  *"The brief says 'engaging, not too formal or informal.' A literature-review opening would be too formal; 'cilantro is yummy lol' would be too informal. A concrete sensory scene with named details (pho, Palmolive, Julia Child) hits the educated-public register."*
-- **The closing two-clause cadence in §5: "And the table reverses itself in a few weeks; your DNA never will."** Point out the deliberate parallel structure and the semicolon:
-  *"I could have written 'cultural taste changes faster than genes do.' Instead I broke it into two short, parallel clauses so the contrast lands as a beat, not as a fact. That's prose rhythm doing rhetorical work — a science-communication move, not just style."*
-- **IEEE citations integrated mid-sentence, not parked at the end.** Scroll and show `[2]`, `[3]`, `[7]` clustering inside §3. Say:
-  *"I use IEEE numerically as required, but I attach citations to the specific claim, not the whole paragraph, so the reader can audit each fact."*
-- **Subheadings as argument, not labels.** *"The gene that gets too much credit"* / *"The kitchen that tunes your nose"* — point out that these headings *carry the thesis*, not just announce topic.
-- **Figure captions that argue, not describe.** Fig 2's caption (*"a gap no single gene variant has ever come close to explaining"*) — note that the caption itself does critical work.
+- **LU #1 · The opening hook (§1) — pho / Palmolive / Julia Child / "I Hate Coriander."** Explain the register choice as a deliberate move, not colour:
+  *"The brief asks for engaged, educated-public register — not a lit review, not a tweet. So I open with a scene, not a thesis: five friends ordering pho, one says it tastes like Palmolive, then Julia Child throwing it on the floor and a Facebook hate-club. Concrete, sensory, and funny enough to *earn* the science that follows."*
+- **LU #2 · The closing line of the post (§7) — "The tongue you grew up with isn't a verdict; it's a draft."** This is the single highest-leverage sentence in the blog. Say what it's doing — out loud:
+  - **Metaphor:** taste reframed as something rewritable (*draft*), not fixed (*verdict*).
+  - **Parallel + semicolon:** "isn't a verdict; it's a draft" — two short clauses balanced on a colon-of-thought.
+  - **Internal callback:** the word *verdict* was planted in §2 ("the verdict is cast twice") — the ending pays it back.
+  - **Title payoff:** answers the "soap or summer" question the title asks.
+  - Frame: *"Four things in one sentence — that's prose rhythm doing real rhetorical work, not decoration."*
+- *(Backup if you want to swap LU #2)* — the §5 line *"And the table reverses itself in a few weeks; your DNA never will."* (parallel clauses + semicolon as sci-comm rhythm). Use only if the closing line feels too risky to land in one take.
 
 ## 6. Things that quietly cost marks (avoid)
 
@@ -85,16 +85,13 @@ Three things from the LANG 1409 brief that most students miss, and that drive th
 
 If yes → high band. If no → re-record the weakest 30 seconds.
 
-## 9. Off-screen sticky-note (9 bullets, keep beside the laptop)
+## 9. Off-screen sticky-note (8 bullets, keep beside the laptop)
 
-1. **Open line:** topic in one sentence, then *"four critical-analysis examples, two language-use examples."*
-2. **CA #1 — §3, 8.7%:** critique using the gene story's *own* number.
-3. **CA #2 — §3, European-only sample [1]:** evaluating evidence quality, not just citing.
-4. **CA #3 — §5, synthesis paragraph:** "small sensitivity dial / verdict handed down at the dinner table, not by your DNA" — built from [1][2][5][6][7], not from one source.
-5. **CA #4 — §6, "The story we keep buying":** two layers — (a) 23andMe profits from the *opposite* of its own 8.7% finding (sociology-of-evidence critique); (b) "what else are we taught to read as nature rather than history?" (the *so-what*).
-6. **LU #1 — §1, pho/Palmolive/Julia Child:** register choice for educated public.
-7. **LU #2 — §5 closing line, "And the table reverses itself in a few weeks; your DNA never will":** parallel clauses + semicolon as sci-comm rhythm.
-8. **Say out loud once:** *"the two perspectives I compare are genetics and culture/exposure."*
-9. **Close (short!):** *"If I had another draft, I'd want a non-Western replication of rs72921001."*
+1. **Open (15s):** topic in one sentence, then *"three critical-analysis moves, two language-use moves."*
+2. **CA #1 — §3 (genetic perspective):** 8.7% + 0.4-of-a-point + European-only sample → *"reading what the paper's own numbers *limit* it to."*
+3. **CA #2 — §4 (cultural perspective):** ethnocultural categories track ancestry; recipes ≠ individual mouths → *"naming the cracks in the side I argue for."*
+4. **CA #3 — §6 "The story we keep buying":** (a) 23andMe profits from the *opposite* of its own 8.7% (consumerism trap); (b) *"what else are we taught to read as nature rather than history?"* + *"none of us are pre-defined by what we're made of"* (the *so-what*).
+5. **LU #1 — §1 hook:** pho / Palmolive / Julia Child / "I Hate Coriander" — register for educated public.
+6. **LU #2 — §7 closing line:** *"The tongue you grew up with isn't a verdict; it's a draft."* — metaphor + semicolon-parallel + callback to §2's *verdict* + payoff to title.
 7. **Say out loud once:** *"the two perspectives I compare are genetics and culture/exposure."*
-8. **Close:** *"If I had another draft, I'd want a non-Western replication of rs72921001."*
+8. **Close (short!):** *"If I had another draft, I'd want a non-Western replication of rs72921001."*
