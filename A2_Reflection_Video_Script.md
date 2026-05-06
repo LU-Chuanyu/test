@@ -6,15 +6,15 @@ The LANG 1409 brief explicitly forbids reading from a script and penalises over-
 
 This script exists only as a reference for what each section should *cover* and roughly how long it should *run*.
 
-- Target length: ~3:25 (inside the 3:20–3:45 safety window, comfortably within the 3–4 min hard limit)
-- Word count: ~470 words at ~138 wpm
+- Target length: ~3:30 (inside the 3:20–3:45 safety window, comfortably within the 3–4 min hard limit)
+- Word count: ~490 words at ~140 wpm
 - Setup: PDF of `A2_Blog_Draft_v1.md` open and screen-shared, scrolled to the top, References pre-scrolled-to in a second tab. Cursor used as a pointer.
 
 ---
 
 ## 0:00 – 0:20 · Frame (~45 words)
 
-> Okay, so my blog post is about why cilantro tastes like soap to some people and like summer to others — basically a debate between a genetic explanation and a cultural one. In this video I'll highlight three places where the post demonstrates critical analysis, and two places where it demonstrates language use for the educated public.
+> Okay, so my blog post is about why cilantro tastes like soap to some people and like summer to others — basically a debate between a genetic and a cultural explanation. In this video I'll highlight three places where the post demonstrates critical analysis, and two places where it demonstrates language use for the educated public.
 
 *[Cursor stays on the title. No scrolling yet.]*
 
@@ -22,7 +22,7 @@ This script exists only as a reference for what each section should *cover* and 
 
 ## 0:20 – 0:55 · Critical Analysis #1 — the 8.7% number, §3 (~80 words)
 
-> Let me scroll down to section three — "The gene that gets too much credit." Right here. So this is my strongest critical-analysis move. The 8.7% figure comes from Eriksson's 23andMe paper — the same study that's usually cited *for* the gene story. I deliberately turned the genetic perspective's own best estimate against itself. That's critique using internal evidence — I'm not attacking the source from outside, I'm quoting its own effect size, which is the cleanest possible way to undercut the popular "it's all genetic" framing.
+> Let me scroll down to section three — "The gene that gets too much credit." So this is my strongest critical-analysis move. The 8.7% figure comes from Eriksson's 23andMe paper — the same study that's usually cited *for* the gene story. I deliberately turned the genetic perspective's own best estimate against itself. That's critique using internal evidence — I'm not attacking the source from outside, I'm quoting its own effect size to undercut the popular "it's all genetic" framing.
 
 *[Hover the cursor over "8.7%" and "Not 87. Eight point seven." before saying the number.]*
 
@@ -30,17 +30,17 @@ This script exists only as a reference for what each section should *cover* and 
 
 ## 0:55 – 1:30 · Critical Analysis #2 — European-only sample, §3 (~80 words)
 
-> Staying in section three — uh, this sentence here, the one citing reference [1]. I flagged that the 23andMe sample was almost entirely European, and that whether rs72921001 carries the same weight in East Asian or African noses is, quote, "still effectively untested at scale." The skill I'm showing here is evaluating evidence quality, not just citing it. A weaker post would have taken the finding at face value. I'm naming a generalisability limit on the very evidence my argument partly depends on.
+> Staying in section three — uh, this sentence here, citing reference [1]. I flagged that the 23andMe sample was almost entirely European, and that whether rs72921001 carries the same weight in East Asian or African noses is, quote, "still effectively untested at scale." The skill I'm showing is evaluating evidence quality, not just citing it. I'm naming a generalisability limit on the very evidence my argument partly depends on.
 
 *[Hover over the [1] citation, then over the phrase "still effectively untested at scale."]*
 
 ---
 
-## 1:30 – 2:10 · Critical Analysis #3 — synthesis paragraph, §5 (~90 words)
+## 1:30 – 2:10 · Critical Analysis #3 — synthesis paragraph, §5 (~85 words)
 
-> Now let me jump to section five — "Genes set the dial, culture plays the music." This paragraph here is where I synthesize, rather than just summarise. The line — "genetics is a small sensitivity dial wired into your nose, but the verdict on that loudness is handed down at the dinner table, not by your DNA; and the table reverses itself in a few weeks, while your DNA never will" — that framing is mine. It's built from references one, two and six together; it's not lifted from any single source. So just to be explicit: the two perspectives I'm comparing are genetics and culture-and-exposure, and this is the paragraph where I bring them into one frame instead of leaving them side by side.
+> Now let me jump to section five — "Where genes end and kitchens begin." This paragraph is where I synthesize, rather than just summarise. The framing — "a small sensitivity dial … but the verdict on that loudness is handed down at the dinner table, not by your DNA" — is mine. It's built from references one, two, five, six and seven together; it's not lifted from any single source. So just to be explicit: the two perspectives I'm comparing are genetics and culture-and-exposure, and this is where I bring them into one frame instead of leaving them side by side.
 
-*[Hover over the "verdict … is handed down at the dinner table" line, then over [1], [2], [6] in turn.]*
+*[Hover over "small sensitivity dial," then over "handed down at the dinner table, not by your DNA," then over [1], [2], [5], [6], [7] in turn.]*
 
 ---
 
@@ -52,11 +52,11 @@ This script exists only as a reference for what each section should *cover* and 
 
 ---
 
-## 2:40 – 3:10 · Language Use #2 — the 8.7% rhythm, §3 (~60 words)
+## 2:40 – 3:10 · Language Use #2 — the closing cadence, §5 (~65 words)
 
-> And one more — back here in section three. Look at the rhythm: "Not 87. Eight point seven." Two short sentences, italics on the spelled-out number. I could've just written "only 8.7%." I deliberately broke the sentence to slow the reader down on the statistic. That's a science-communication technique — using prose rhythm to make a number stick.
+> And one more — still in section five, the final line of that paragraph. "And the table reverses itself in a few weeks; your DNA never will." I could've written "cultural taste changes faster than genes do." Instead I broke it into two short, parallel clauses with a semicolon, so the contrast lands as a beat, not as a fact. That's prose rhythm doing rhetorical work — a science-communication move, not just style.
 
-*[Scroll down. Hover over "Not 87. Eight point seven."]*
+*[Hover over "the table reverses itself in a few weeks; your DNA never will."]*
 
 ---
 

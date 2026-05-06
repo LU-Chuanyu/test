@@ -41,11 +41,11 @@ Three things from the LANG 1409 brief that most students miss, and that drive th
   That's textbook *critique using internal evidence*, which is a top-band move.
 - **§3 limitation about the European-only sample [1].** Shows you didn't take a finding at face value — you flagged a *generalisability* limit. Name the skill: *"evaluating evidence quality, not just citing it."*
 - **§4 vs §3 — the deliberate juxtaposition of the two perspectives.** Point out that the two perspectives chosen aren't symmetric opposites (genetics vs. culture-and-exposure), and explain why that asymmetry is the *point* of the critique: the "debate" is framed as 50/50 in popular media but the evidence isn't.
-- **§5 "Genes set the dial, culture plays the music" — the synthesis paragraph.** Explicitly say:
-  *"This is where I synthesize, rather than just summarise — the 'sensitivity dial wired into your nose / verdict handed down at the dinner table, not by your DNA' framing is mine, built from refs [1][2][6], not lifted from any one source."*
+- **§5 "Where genes end and kitchens begin" — the synthesis paragraph.** Explicitly say:
+  *"This is where I synthesize, rather than just summarise — the 'small sensitivity dial / verdict handed down at the dinner table, not by your DNA' framing is mine, built from refs [1][2][5][6][7], not lifted from any one source."*
   Synthesis is a named rubric word; use it out loud.
-- **§4 — the honest concession** (*"Mauer & El-Sohemy's ethnocultural categories partly mirror genetic ancestry"*). Flag this:
-  *"Top-band critique acknowledges where your preferred perspective is also weak. I deliberately undercut my own argument here."*
+- **§4 — the honest concession** (*"because their ethnocultural categories partly track genetic ancestry, the cultural pattern may quietly absorb some of the very genetic signal it appears to dwarf"*). Flag this:
+  *"Top-band critique acknowledges where your preferred perspective is also weak. I deliberately undercut my own argument here before defending it."*
 
 ## 5. Concrete moments to highlight — Language Use (pick 2)
 
@@ -53,8 +53,8 @@ Three things from the LANG 1409 brief that most students miss, and that drive th
 
 - **The opening pho scene (§1).** Explain the register choice:
   *"The brief says 'engaging, not too formal or informal.' A literature-review opening would be too formal; 'cilantro is yummy lol' would be too informal. A concrete sensory scene with named details (pho, Palmolive, Julia Child) hits the educated-public register."*
-- **The 8.7% paragraph's rhythm: "Not 87. *Eight point seven.*"** Point out the deliberate short sentences and italics:
-  *"I'm using prose rhythm to make a statistic memorable — that's a science-communication technique, not just style."*
+- **The closing two-clause cadence in §5: "And the table reverses itself in a few weeks; your DNA never will."** Point out the deliberate parallel structure and the semicolon:
+  *"I could have written 'cultural taste changes faster than genes do.' Instead I broke it into two short, parallel clauses so the contrast lands as a beat, not as a fact. That's prose rhythm doing rhetorical work — a science-communication move, not just style."*
 - **IEEE citations integrated mid-sentence, not parked at the end.** Scroll and show `[2]`, `[3]`, `[7]` clustering inside §3. Say:
   *"I use IEEE numerically as required, but I attach citations to the specific claim, not the whole paragraph, so the reader can audit each fact."*
 - **Subheadings as argument, not labels.** *"The gene that gets too much credit"* / *"The kitchen that tunes your nose"* — point out that these headings *carry the thesis*, not just announce topic.
@@ -89,8 +89,8 @@ If yes → high band. If no → re-record the weakest 30 seconds.
 1. **Open line:** topic in one sentence, then *"three critical-analysis examples, two language-use examples."*
 2. **CA #1 — §3, 8.7%:** critique using the gene story's *own* number.
 3. **CA #2 — §3, European-only sample [1]:** evaluating evidence quality, not just citing.
-4. **CA #3 — §5, synthesis paragraph:** "sensitivity dial wired into your nose / verdict handed down at the dinner table, not by your DNA" — built from [1][2][6], not from one source.
+4. **CA #3 — §5, synthesis paragraph:** "small sensitivity dial / verdict handed down at the dinner table, not by your DNA" — built from [1][2][5][6][7], not from one source.
 5. **LU #1 — §1, pho/Palmolive/Julia Child:** register choice for educated public.
-6. **LU #2 — §3, "Not 87. *Eight point seven.*":** prose rhythm as sci-comm technique.
+6. **LU #2 — §5 closing line, "And the table reverses itself in a few weeks; your DNA never will":** parallel clauses + semicolon as sci-comm rhythm.
 7. **Say out loud once:** *"the two perspectives I compare are genetics and culture/exposure."*
 8. **Close:** *"If I had another draft, I'd want a non-Western replication of rs72921001."*
