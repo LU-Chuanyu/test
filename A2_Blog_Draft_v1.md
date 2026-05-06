@@ -8,7 +8,7 @@
 
 Order pho with five friends. Three dive in. One pushes the green flecks to the rim. The fifth pulls a face and announces that the soup tastes like Palmolive. Cilantro has a way of doing that: Julia Child once said she would pick it out of a dish and "throw it on the floor" [1]; a Facebook group called *I Hate Coriander* has hundreds of thousands of members [1]. No other salad garnish has its own hate club.
 
-The interesting question isn't *who* hates it but *why the same leaf produces two opposite experiences*. Two explanations get traded. One is **genetic**: you inherited the variant that turns the leaf soapy, or you didn't. The other is **cultural**: what you ate growing up trained your nose. This blog explores the route between them, and argues that genes do get a vote, but experience casts the louder one.
+The interesting question isn't *who* hates it but *why the same leaf produces two opposite experiences*. Two explanations get traded. One is **genetic**: you inherited the variant that turns the leaf soapy, or you didn't. The other is **cultural**: what you ate growing up trained your nose. This blog weighs both explanations and argues that genes matter a little, but the kitchen you grew up in matters far more.
 
 ## The science in one bite
 
@@ -34,7 +34,7 @@ The other perspective starts from a fact hard to un-see: cilantro dislike rises 
 ![Bar chart: cilantro dislike rates across six ethnocultural groups, ranging from 21% in East Asians down to 3% in Middle Eastern participants](figures/fig1_ethnocultural_prevalence.png)
 *Figure 2. A nearly seven-fold gap in dislike rates between Middle Eastern and East Asian diners, a gap no single gene variant has ever come close to explaining. Data: Mauer & El-Sohemy (2012) [6].*
 
-Each source has a ceiling worth naming. Mauer and El-Sohemy's percentages come from a single Toronto sample of young adults answering a one-shot online survey rather than tasting anything, and because their ethnocultural categories partly track genetic ancestry, the cultural gradient may quietly absorb some of the very genetic signal it appears to dwarf [6]. The recipe-database study widens the frame, but recipes describe what kitchens *cook*, not what individual mouths *enjoy* [7]. Granted, neither dataset is the last word — yet even after these caveats are paid in full, the cultural gradient is far too steep, and far too geographically clean, for any single gene variant to absorb. Culture, on this evidence, is not just bending the verdict at the margin; it is doing most of the bending.
+Each source has a limit worth naming. Mauer and El-Sohemy's percentages come from a single Toronto sample of young adults filling in a one-shot online survey rather than actually tasting anything, and because their ethnocultural categories partly track genetic ancestry, the cultural pattern may quietly absorb some of the very genetic signal it appears to dwarf [6]. The recipe-database study widens the frame, but recipes describe what kitchens *cook*, not what individual mouths *enjoy* [7]. Neither dataset is the last word — yet even after these caveats are taken seriously, the gap between cuisines is far too wide, and lines up far too neatly with geography, for any single gene variant to explain it away. Culture, on this evidence, is not just nudging the verdict at the margin; it is writing most of it.
 
 ## Where genes end and kitchens begin
 
@@ -70,4 +70,4 @@ If you've spent years saying you "have the cilantro gene," the science is asking
 
 ---
 
-<p class="word-count">Word count: 1,441 words (body text only; figure captions and citations not counted).</p>
+<p class="word-count">Word count: 1,439 words (body text only; figure captions and citations not counted).</p>
