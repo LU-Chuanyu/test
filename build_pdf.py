@@ -96,6 +96,20 @@ a { color: #000; text-decoration: none; word-break: break-all; }
     font-size: 10pt;
     margin-top: 0.2em;
 }
+.reflection-video {
+    margin-top: 1.2em;
+    padding: 0.6em 0.9em;
+    border-top: 0.75pt solid #cccccc;
+    border-bottom: 0.75pt solid #cccccc;
+    text-align: center;
+    font-size: 11pt;
+    color: #000;
+}
+.reflection-video a {
+    color: #000;
+    text-decoration: underline;
+    word-break: break-all;
+}
 """
 
 

@@ -71,3 +71,5 @@ If you've spent years saying you "have the cilantro gene," the science is asking
 ---
 
 <p class="word-count">Word count: 1,439 words (body text only; figure captions and citations not counted).</p>
+
+<p class="reflection-video">🎥 <strong>Reflection video:</strong> <a href="https://youtu.be/BPHY92-NWeo">https://youtu.be/BPHY92-NWeo</a></p>
